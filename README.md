@@ -4,6 +4,9 @@ A fully Responsive React Application that can fetch real-time data of top 100 Cr
 ## Layout
 
 ### Homepage
+
+The data can be viewed in both USD or INR
+
 ![image](https://user-images.githubusercontent.com/92756482/195985906-fbbfdcf9-785d-44d7-a2b1-41dc8b161b63.png)
 
 
