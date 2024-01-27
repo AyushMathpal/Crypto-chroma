@@ -1,6 +1,6 @@
 
 A fully Responsive React Application that can fetch real-time data of top 100 Crypto-Currencies around the world arranged in the order of their market cap along with a graph made using ChartJS that can show trends of the crypto-currency value over the past day, month or year. UI is designed with the help of Material UI from Google and Bootstrap.    
-
+##### Edit: Building a live real time prediction model to analyse previous time series data and predict the price of cryptocurrencies for 30 days. Historical news data obtained from  https://newscatcherapi.com/.
 ## Layout
 
 ### `Homepage`
